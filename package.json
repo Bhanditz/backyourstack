@@ -52,7 +52,7 @@
     "next": "7.0.2",
     "next-nprogress": "^1.4.0",
     "next-routes": "^1.4.2",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-github": "^1.1.0",
     "prop-types": "^15.6.2",
     "query-string": "^6.2.0",
